@@ -24,3 +24,14 @@ The order system lets authenticated users place orders for products. Orders are 
 This backend was tested using Postman for sending requests to the various API endpoints, including user registration, login, creating products, and placing orders. Token-based authorization was also tested through Postman to ensure that only authenticated users could access specific routes. The goal was to keep the project as minimal and understandable as possible while covering the core backend functionality required in an e-commerce platform. This makes it ideal for beginners who are looking to learn backend development using FastAPI and want to understand how to build a secure and functional API.
 
 Overall, this project serves as a clean, beginner-friendly template for anyone who wants to build a backend system for an e-commerce application or learn how to work with FastAPI, MySQL, and JWT authentication.
+
+<img width="1912" height="1199" alt="Image" src="https://github.com/user-attachments/assets/d8b40bcb-2774-44e6-9d01-ebfed0f6febd" />
+<img width="1919" height="1198" alt="Image" src="https://github.com/user-attachments/assets/6d160024-9905-45dd-bd47-8a1a72c6bce3" />
+<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/4b5e8174-594e-47c7-a259-1b38044065a7" />
+<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/903baf20-47c2-4411-ba08-b75d1a5a118b" />
+<img width="1919" height="1196" alt="Image" src="https://github.com/user-attachments/assets/2b69ad36-3d2d-46b2-9715-b62ae2bdfd0e" />
+<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/e3656853-f534-4df7-ae68-f2b74f279f5f" />
+<img width="1919" height="1197" alt="Image" src="https://github.com/user-attachments/assets/397be3da-4303-42bc-b02c-714ed6155903" />
+<img width="1918" height="1198" alt="Image" src="https://github.com/user-attachments/assets/1a606e6f-d67c-4970-90fb-34b0291202fa" />
+<img width="1919" height="1196" alt="Image" src="https://github.com/user-attachments/assets/14ec1584-b93b-487b-bda5-29419d75b3c7" />
+<img width="1919" height="1196" alt="Image" src="https://github.com/user-attachments/assets/e195efee-d475-48e5-a4e8-f8cc7a7a7da0" />
